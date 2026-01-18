@@ -1,57 +1,6 @@
-# 👋 Hi, I’m Majata Hichimi
 
-I’m a **software engineering student and backend-focused developer** with a strong interest in **FinTech systems, databases, and security-focused development**. I’m intentionally **security-minded**, and I care deeply about how systems behave under real-world constraints, misuse, and failure — not just when everything goes right.
-
----
-
-## 🧠 What I’m interested in
-- Backend development & system design  
-- Application and infrastructure security  
-- Databases (especially PostgreSQL and modern cloud-hosted setups)
-- FinTech infrastructure & financial systems
-- Linux, terminals, and developer tooling
-
----
-
-## 🛠️ Technologies I work with
-- **Languages:** C++, JavaScript, TypeScript, Go (learning)
-- **Backend:** Node.js, Express, Elysia, Bun
-- **Databases:** PostgreSQL, Prisma, SQL fundamentals
-- **Tools:** Git, Linux, Docker (learning), CLI-first workflows
-
----
-
-## 🔐 Security mindset
-I approach software with security in mind by default:
-- Thinking in terms of **threat models**, not just features  
-- Being careful with authentication, authorization, and data handling  
-- Preferring explicitness over magic  
-- Designing systems that fail safely  
-
----
-
-## 🚧 Current focus
-- Deepening my backend, database, and security knowledge  
-- Building real-world projects with production thinking  
-- Understanding how software, finance, and security intersect  
-
----
-
-## 💡 How I approach software
-I value:
-- Clear problem definition before code
-- Simple solutions over clever ones
-- Strong fundamentals over shortcuts
-- Systems that scale without compromising safety
-
----
-
-## 📫 Let’s connect
-If you’re interested in **backend systems, secure software design, or FinTech infrastructure**, feel free to explore my repositories or reach out.
-
-Thanks for stopping by 
 # 💫 About Me:
-# 👋 Hi, I’m Ethan<br><br>I’m a **software engineering student and backend-focused developer** with a strong interest in **FinTech systems, databases, and security-focused development**. I’m intentionally **security-minded**, and I care deeply about how systems behave under real-world constraints, misuse, and failure — not just when everything goes right.<br><br>---<br><br>## 🧠 What I’m interested in<br>- Backend development & system design  <br>- Application and infrastructure security  <br>- Databases (especially PostgreSQL and modern cloud-hosted setups)<br>- FinTech infrastructure & financial systems<br>- Linux, terminals, and developer tooling<br><br>---<br><br>## 🛠️ Technologies I work with<br>- **Languages:** C++, JavaScript, TypeScript, Go (learning)<br>- **Backend:** Node.js, Express, Elysia, Bun<br>- **Databases:** PostgreSQL, Prisma, SQL fundamentals<br>- **Tools:** Git, Linux, Docker (learning), CLI-first workflows<br><br>---<br><br>## 🔐 Security mindset<br>I approach software with security in mind by default:<br>- Thinking in terms of **threat models**, not just features  <br>- Being careful with authentication, authorization, and data handling  <br>- Preferring explicitness over magic  <br>- Designing systems that fail safely  <br><br>---<br><br>## 🚧 Current focus<br>- Deepening my backend, database, and security knowledge  <br>- Building real-world projects with production thinking  <br>- Understanding how software, finance, and security intersect  <br><br>---<br><br>## 💡 How I approach software<br>I value:<br>- Clear problem definition before code<br>- Simple solutions over clever ones<br>- Strong fundamentals over shortcuts<br>- Systems that scale without compromising safety<br><br>---<br><br>## 📫 Let’s connect<br>If you’re interested in **backend systems, secure software design, or FinTech infrastructure**, feel free to explore my repositories or reach out.<br><br>Thanks for stopping by 🙂<br>
+# 👋 Hi, I’m Majata Hichimi<br><br>I’m a **software engineering student and backend-focused developer** with a strong interest in **FinTech systems, databases, and security-focused development**. I’m intentionally **security-minded**, and I care deeply about how systems behave under real-world constraints, misuse, and failure — not just when everything goes right.<br><br>---<br><br>## 🧠 What I’m interested in<br>- Backend development & system design  <br>- Application and infrastructure security  <br>- Databases (especially PostgreSQL and modern cloud-hosted setups)<br>- FinTech infrastructure & financial systems<br>- Linux, terminals, and developer tooling<br><br>---<br><br>## 🛠️ Technologies I work with<br>- **Languages:** C++, JavaScript, TypeScript, Go (learning)<br>- **Backend:** Node.js, Express, Elysia, Bun<br>- **Databases:** PostgreSQL, Prisma, SQL fundamentals<br>- **Tools:** Git, Linux, Docker (learning), CLI-first workflows<br><br>---<br><br>## 🔐 Security mindset<br>I approach software with security in mind by default:<br>- Thinking in terms of **threat models**, not just features  <br>- Being careful with authentication, authorization, and data handling  <br>- Preferring explicitness over magic  <br>- Designing systems that fail safely  <br><br>---<br><br>## 🚧 Current focus<br>- Deepening my backend, database, and security knowledge  <br>- Building real-world projects with production thinking  <br>- Understanding how software, finance, and security intersect  <br><br>---<br><br>## 💡 How I approach software<br>I value:<br>- Clear problem definition before code<br>- Simple solutions over clever ones<br>- Strong fundamentals over shortcuts<br>- Systems that scale without compromising safety<br><br>---<br><br>## 📫 Let’s connect<br>If you’re interested in **backend systems, secure software design, or FinTech infrastructure**, feel free to explore my repositories or reach out.<br><br>Thanks for stopping by 🙂<br>
 
 
 ## 🌐 Socials:
