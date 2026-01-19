@@ -14,21 +14,12 @@ I am a software engineering student in Ndola,Zambia.I am interested in financial
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
 </p>
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Majata-Hichimi&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Majata-Hichimi&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Majata-Hichimi&theme=default" alt="GitHub Streak" />
 
 ## Support Me
 
 <a href="https://www.buymeacoffee.com/Majata-Hichimi"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
 
-## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Majata-Hichimi" alt="trophy" />
 
 ## GitHub Activity Graph
 
